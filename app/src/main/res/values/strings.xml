@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fakertwo</string>
+    <string name="welcome">Дарова нна</string>
+    <string name="failed">ЛОООХ, ПИДР!!!!</string>
+    <string name="success">Крассава, сосиська!!!</string>
+    <string name="score"></string>
+</resources>
